@@ -5,7 +5,7 @@ The package within will allow you to build a model using labelled datasets (one 
 
 To import the model you can use the following import statement:
 
-                **from** hrct_model **import** HRCTmodel
+               from hrct_model import HRCTmodel
                 
 
 Required python packages:
