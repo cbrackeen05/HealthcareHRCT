@@ -1,6 +1,9 @@
-# ---
-# Author: Cristina Ross
-# ---
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+
+@author: Cristina Ross
+"""
 
 import spacy
 from pdfminer.high_level import extract_text
