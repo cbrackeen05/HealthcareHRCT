@@ -30,7 +30,7 @@ Errors/Issues Identified:
 
     import os
     os.chdir('/Users/Cristina/Downloads/sepsis_model_linux/')
-        from sepsis_model import sepsisHRCTmodel
+    from sepsis_model import sepsisHRCTmodel
 
 Please note, while all that is required to run this project is to download all of the items into a single place on your machine, there are some packages that are required to allow this model to successfully run.
 
