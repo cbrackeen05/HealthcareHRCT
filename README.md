@@ -25,7 +25,7 @@ There is one pre-trained model available to predict a diagnosis of severe sepsis
     with open ('sepsis_model_linux.pickle', 'rb') as handle:
         sepsis = pickle.load(handle)
 
-Errors/Issues Identified:
+#### Errors/Issues Identified:
 Occassionally when running this code in Spyder, the working directory changed from the location the file was opened in to the /home directory for the system. To resolve this, you can simply import os and change your working directory before importing the HRCTmodel:
 
     import os
@@ -34,7 +34,7 @@ Occassionally when running this code in Spyder, the working directory changed fr
 
 Please note, while all that is required to run this project is to download all of the items into a single place on your machine, there are some packages that are required to allow this model to successfully run.
 
-Required python packages:
+#### Required python packages:
 os
 pandas
 spacy==3.4.3
