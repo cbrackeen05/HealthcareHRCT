@@ -26,7 +26,7 @@ There is one pre-trained model available to predict a diagnosis of severe sepsis
         sepsis = pickle.load(handle)
 
 Errors/Issues Identified:
-- Occassionally when running this code in Spyder, the working directory changed from the location the file was opened in to the /home directory for the system. To resolve this, you can simply import os and change your working directory before importing the HRCTmodel:
+Occassionally when running this code in Spyder, the working directory changed from the location the file was opened in to the /home directory for the system. To resolve this, you can simply import os and change your working directory before importing the HRCTmodel:
 
     import os
     os.chdir('/Users/Cristina/Downloads/sepsis_model_linux/')
