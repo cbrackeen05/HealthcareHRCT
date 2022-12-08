@@ -1,5 +1,5 @@
 # Healthare High Relevance Clinical Terms (HRCT)
-[Demo Link Here] (https://www.google.com/)
+[Demo Link Here](https://www.google.com/)
 
 The goal with Healthcare HRCT is to find the clinically relevant terms in documents to help identify the patients that are likely to end up with a particular diagnosis. The hope is that by identifying the patient's primary issue, treatment can be carried out earlier resulting in more positive outcomes, especially where a patient only has a small timeframe to get treatment to result in a positive outcome such as a severe sepsis diagnosis. 
 
