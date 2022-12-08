@@ -1,18 +1,12 @@
-# ---
-# jupyter:
-#   jupytext:
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.13.8
-#   kernelspec:
-#     display_name: Python 3 (ipykernel)
-#     language: python
-#     name: python3
-# ---
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec  5 20:35:45 2022
 
-# +
+@author: Cristina Ross
+"""
+
+
 import os
 import numpy as np
 import pandas as pd
@@ -21,7 +15,6 @@ import pickle
 from hrct_distribution import NotesTopicModel, NotesBackground, processedNote
 
 
-# -
 
 class HRCTmodel():
     def __init__(self, positive_path, negative_path, background_path=None):
