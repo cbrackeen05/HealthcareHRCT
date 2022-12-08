@@ -4,6 +4,8 @@ The goal with Healthcare HRCT is to find the clinically relevant terms in docume
 The package within will allow you to build a model using labelled datasets (one with the diagnosis and one without) which are required and additionally you may choose to include a third dataset consisting of notes of the same type that will be used to designate a background distribution, but this third dataset is not required to build the model.
 
 To import the model you can use the following import statement:
-    from hrct_model import HRCTmodel
+
+                from hrct_model import HRCTmodel
+                
 
 Required python packages:
