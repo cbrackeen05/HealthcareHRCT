@@ -35,8 +35,8 @@ Occassionally when running this code in Spyder, the working directory changed fr
 Please note, while all that is required to run this project is to download all of the items into a single place on your machine, there are some packages that are required to allow this model to successfully run.
 
 #### Required python packages:
-os
-pandas
-spacy==3.4.3
-pdfminer.six
-pickle ** only required to open pre-trained model
+- os
+- pandas
+- spacy==3.4.3
+- pdfminer.six
+- pickle ** only required to open pre-trained model
