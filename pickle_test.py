@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  6 10:42:45 2022
 
-@author: cross002
+@author: Cristina Ross
 """
 
 import pickle
