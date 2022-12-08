@@ -3,7 +3,7 @@
 """
 Created on Mon Dec  5 20:35:45 2022
 
-@author: Maria
+@author: Cristina Ross
 """
 
 from hrct_model import HRCTmodel
